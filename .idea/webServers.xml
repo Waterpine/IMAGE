@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5b40e3b1-4488-4ecc-9d86-a7b805e4a923" name="Sibo" url="http://sepc625.se.cuhk.edu.hk">
+        <fileTransfer host="sepc625.se.cuhk.edu.hk" port="22" rootFolder="/home/songb" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
